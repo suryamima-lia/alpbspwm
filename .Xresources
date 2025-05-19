@@ -1,0 +1,39 @@
+! Font settings
+Xft.dpi: 96
+Xft.antialias: true
+Xft.rgba: rgb
+Xft.hinting: true
+Xft.hintstyle: hintslight
+
+URxvt.font: xft:DejaVu Sans Mono:size=10
+URxvt.boldFont: xft:DejaVu Sans Mono:bold:size=10
+URxvt.scrollBar: false
+URxvt.saveLines: 5000
+URxvt.internalBorder: 10
+URxvt.cursorBlink: true
+
+! Cursor
+Xcursor.theme: Adwaita
+Xcursor.size: 24
+
+! Color theme — light and easy on the eyes
+*.foreground:   #2e3436
+*.background:   #fefefe
+*.cursorColor:  #64b5f6
+
+*.color0:  #e0e0e0
+*.color1:  #d77c7c
+*.color2:  #9ccc9c
+*.color3:  #ffeb99
+*.color4:  #64b5f6
+*.color5:  #cba5d7
+*.color6:  #89dce2
+*.color7:  #333333
+*.color8:  #aaaaaa
+*.color9:  #ef9a9a
+*.color10: #a5d6a7
+*.color11: #fff59d
+*.color12: #90caf9
+*.color13: #ce93d8
+*.color14: #80deea
+*.color15: #1e1e1e
